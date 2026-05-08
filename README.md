@@ -1,6 +1,6 @@
 # 2D Heat Equation Solver — Finite Difference Method
 
-![Battery Thermal Simulation](heat_equation_solution.gif)
+![Heat Equation](heat_equation_solution.gif)
 
 This project simulates transient heat conduction across a 2D square 
 plate using the explicit finite difference method, implemented from 
